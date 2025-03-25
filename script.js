@@ -4,7 +4,7 @@ const obj = {
     sallery:function hy() {
         return (`hellow ${this.name}`)
     },
-    favmovei:['baagi','hero panti','dilwaly 2']
+    favmovei:['spider man','super man','acua man']
 }
 document.writeln(obj.favmovei[2])
 document.writeln(obj.sallery())
